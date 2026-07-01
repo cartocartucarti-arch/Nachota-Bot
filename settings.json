@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "nachotafk",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Nachotaxa-ABKY.aternos.me",
     "port": 36360,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {

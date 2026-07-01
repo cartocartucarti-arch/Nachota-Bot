@@ -79,6 +79,8 @@
       "connect": true,
       "disconnect": true,
       "chat": false
+      retry_delay_seconds": 20, 
+    "max_retries": 5
     }
   },
   "chat": {
